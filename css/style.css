@@ -1,5 +1,5 @@
 #main-menu {
-  background-color: #FF6961;
+  background-color: #2670E8;
   overflow: hidden;
   border: 5px;
   border-radius: 5px;
@@ -40,13 +40,13 @@
 }
 
 #main-menu ul li a:link {
-  color: black;
+  color: white;
   text-decoration: none;
   font-family: Arial, sans-serif;
 }
 
 body {
-  background-color: maroon;
+  background-color: blue;
   font-family: "Times New Roman", Times, serif;
 }
 
